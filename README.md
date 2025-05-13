@@ -18,17 +18,6 @@ A collection of summarized lessons, code snippets, notes, and examples based on 
 
 ---
 
-## 📖 Topics Covered (So far...)
-
-| Chapter | Topic |
-|--------|-------|
-| 01 | What is Code? |
-| 02 | Code & Execution |
-| 03 | Operators |
-| ... | More coming soon! |
-
----
-
 ## 🛠️ Why I'm Doing This
 
 I’m learning JavaScript seriously, and this book opened my eyes.  
