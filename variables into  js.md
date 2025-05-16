@@ -194,7 +194,9 @@ var x = 10;
 ## 🔚 Summary
 
 ✅ Use `const` when the value won’t change.
+
 ✅ Use `let` when you need to update the value.
+
 ❌ Avoid `var` unless you're dealing with legacy code.
 
 Now you’re ready to write cleaner, safer JavaScript using the right type of variable for each situation. 🚀
